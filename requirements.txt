@@ -1,3 +1,3 @@
-pandas.exe
-scipy.exe
-streamlit.exe
+pandas
+scipy
+streamlit
